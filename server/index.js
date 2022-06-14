@@ -6,7 +6,7 @@ const MatchModel= require("./models/Match");
 const mongoose = require("mongoose")
 const cors = require("cors")
 
-mongoose.connect("mongodb+srv://adarsh:adarsh@cluster0.jbwde.mongodb.net/cricket?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://NA RE BABA NA NA@cluster0.jbwde.mongodb.net/cricket?retryWrites=true&w=majority");
 
 app.use(express.json());
 app.use(cors());
